@@ -1,0 +1,17 @@
+*{
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+}
+
+body{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 20px;
+   line-height: 1.2rem;
+   background: linear-gradient(135deg, #fff 0% ,#aaa 100%);
+   color: rgb(160, 58, 11);
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   min-height: 100vh;
+}
